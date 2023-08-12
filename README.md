@@ -7,10 +7,9 @@ https://github.com/Ubuntufanboy/ascii-audio/assets/82414370/15b5c198-cb9b-4e17-8
 # Install
 
 If you want to try it out yourself you can install it like this
-``git clone https://github.com/Ubuntufanboy/ascii-audio``
-Then run
-``cd ascii-audio``
-At this point you are going to want to find some audio and name it full.wav
+- ``git clone https://github.com/Ubuntufanboy/ascii-audio``
+- Then run ``cd ascii-audio``
+- At this point you are going to want to find some audio and name it ``full.wav``
 
 **WARNING: You need to set the video sample rate to 4000 because your computer will crash with higher quality**
 You can do this in audacity by following these steps
